@@ -110,7 +110,7 @@ void diff_eq_cuda(double *h_C, double *h_C_new, int n) {
 }
 
 int main() {
-    double seq_time_s = 13.048;
+    double seq_time_s = 25.418;
 
     double *h_C = (double*)calloc(N * N, sizeof(double));
     double *h_C_new = (double*)calloc(N * N, sizeof(double));
