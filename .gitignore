@@ -2,3 +2,4 @@
 /paralela.c
 /sequencial.c
 /tempo_exec.py
+/cuda/difusaoCUDA2.c
